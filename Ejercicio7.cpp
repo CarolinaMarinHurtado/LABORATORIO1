@@ -2,9 +2,8 @@
 
 using namespace std;
 
-int main ()
+int Ejercicio7()
 {
     cout<<"hola caro"<<endl;
     return 0;
 }
-
