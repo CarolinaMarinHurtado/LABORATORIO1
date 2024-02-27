@@ -5,10 +5,14 @@ CONFIG -= qt
 
 SOURCES += \
         Ejercicio1.cpp \
+        Ejercicio10.cpp \
+        Ejercicio12.cpp \
         Ejercicio2.cpp \
         Ejercicio3.cpp \
         Ejercicio4.cpp \
         Ejercicio5.cpp \
         Ejercicio6.cpp \
         Ejercicio7.cpp \
+        Ejercicio8.cpp \
+        Ejercicio9.cpp \
         main.cpp
