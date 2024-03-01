@@ -23,4 +23,5 @@ int Ejercicio12()
         }
  }
  cout<<"\nEl mayor factor primo de " <<n<< "  es: " << final<<endl;
+ return 0;
 }
